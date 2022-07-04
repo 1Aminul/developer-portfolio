@@ -42,10 +42,16 @@ section .half-width{
     background-position: right;
     
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
 p{
     color: gray;
     font-size: 18px;
-    /* text-align: justify; */
+   
 }
 .experience-item h3{
     color: orange;
